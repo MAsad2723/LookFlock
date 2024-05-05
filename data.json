@@ -1,0 +1,538 @@
+[
+    {
+        "id": 1,
+        "name": "Cambric Dyed Embroidered Shirt WGK-CMS-DE-861",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-cms-de-861_3__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1199,
+        "oldPrice": 3994,
+        "discount": 2795
+    },
+    {
+        "id": 2,
+        "name": "Foil Print Slub Shirt GLW-22-60",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/g/l/glw-22-60_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1599,
+        "oldPrice": 5329,
+        "discount": 3730
+    },
+    {
+        "id": 3,
+        "name": "The Loom Dyed Shirt WGK-YDW-DY-1616",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-ydw-dy-1616_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1230,
+        "oldPrice": 4097,
+        "discount": 2867
+    },
+    {
+        "id": 4,
+        "name": "The Loom Dyed Shirt WGK-YDW-DY-1800",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-ydw-dy-1800_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1445,
+        "oldPrice": 4816,
+        "discount": 3371
+    },
+    {
+        "id": 5,
+        "name": "Printed Melody Printed Shirt WGK-GTW-DP-1847",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-gtw-dp-1847_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 768,
+        "oldPrice": 2557,
+        "discount": 1789
+    },
+    {
+        "id": 6,
+        "name": "Printed Melody Printed Shirt WGK-GTW-DP-1852",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-gtw-dp-1852_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1014,
+        "oldPrice": 3378,
+        "discount": 2364
+    },
+    {
+        "id": 7,
+        "name": "Screen Printed Khaddar Shirt GLW-22-47 1PC",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/g/l/glw-22-47_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1538,
+        "oldPrice": 5124,
+        "discount": 3586
+    },
+    {
+        "id": 8,
+        "name": "Embroidered Khaddar Shirt GLW-22-05",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/g/l/glw-22-05_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 2154,
+        "oldPrice": 7177,
+        "discount": 5023
+    },
+    {
+        "id": 9,
+        "name": "Neps Yarn Dyed Shirt WGK-YDW-DY-2079",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-ydw-dy-2079_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1445,
+        "oldPrice": 4816,
+        "discount": 3371
+    },
+    {
+        "id": 10,
+        "name": "The Loom Dyed Shirt WGK-JQS-DE-2097",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-jqs-de-2097_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1722,
+        "oldPrice": 5740,
+        "discount": 4018
+    },
+    {
+        "id": 11,
+        "name": "Dyed Denim Shirt And Trouser WGK-DNW-DY-1953",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-dnw-dy-1953_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1846,
+        "oldPrice": 6150,
+        "discount": 4304
+    },
+    {
+        "id": 12,
+        "name": "White Raw Silk Embroidered Trousers TR-22-28",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-28_white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1384,
+        "oldPrice": 4610,
+        "discount": 3226
+    },
+    {
+        "id": 13,
+        "name": "Grey Styling Kurta KR-KSTY22-014",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/g/r/grey_styling_kurta_kr-ksty22-014_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 769,
+        "oldPrice": 2562,
+        "discount": 1793
+    },
+    {
+        "id": 14,
+        "name": "Magenta Embroidered Kurta KR-KEMB22-018",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/m/a/magenta_embroidered_kurta_kr-kemb22-018_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 15,
+        "name": "Moss Embroidered Kurta KR-KEMB22-017",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/m/o/moss_embroidered_kurta_kr-kemb22-017_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 16,
+        "name": "Assorted Pillow Covers Pair 6 PC Set",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/a/s/assorted_pillow_covers_pair_6_pcs_set_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 810,
+        "oldPrice": 2700,
+        "discount": 1890
+    },
+    {
+        "id": 17,
+        "name": "Pink-White Casual Shirt CM-YD-2872 CS HS",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/p/i/pink-white_casual_shirt_cm-yd-2872_cs_hs_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 999,
+        "oldPrice": 2818,
+        "discount": 1819
+    },
+    {
+        "id": 18,
+        "name": "Women Navy Shoes IDFT-SS22-208",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/2/9/290855_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1999,
+        "oldPrice": 5226,
+        "discount": 3227
+    },
+    {
+        "id": 19,
+        "name": "Women Tan Shoes IDFT-SS22-211",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/2/9/290865_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1999,
+        "oldPrice": 5226,
+        "discount": 3227
+    },
+    {
+        "id": 20,
+        "name": "Black Embroidered Raw Silk Trousers TR-21-158",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-21-158_black_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 21,
+        "name": "Black Embroidered Indian Raw Silk Trousers TR-21-116",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-21-116_1_black.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1106,
+        "oldPrice": 3686,
+        "discount": 2580
+    },
+    {
+        "id": 22,
+        "name": "Bottom - WGK-LWS-DE-455B",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-lws-de-455b_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1014,
+        "oldPrice": 3378,
+        "discount": 2364
+    },
+    {
+        "id": 23,
+        "name": "Jacquard Muffler WG-MF-W22-001",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-001_1__2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 706,
+        "oldPrice": 2351,
+        "discount": 1645
+    },
+    {
+        "id": 24,
+        "name": "Dyed Muffler WG-MF-W22-011",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-011_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 706,
+        "oldPrice": 2351,
+        "discount": 1645
+    },
+    {
+        "id": 25,
+        "name": "Black Diomand Muffler WG-MF-W22-002",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-002_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 706,
+        "oldPrice": 2351,
+        "discount": 1645
+    },
+    {
+        "id": 26,
+        "name": "Junior Girl Red Trouser JGNB-2210064-A",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/r/e/red_trousers_jgnb-2210064-a_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 999,
+        "oldPrice": 2557,
+        "discount": 1558
+    },
+    {
+        "id": 27,
+        "name": "Junior Girl Blue Blouse JGWD-2210028",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/b/l/blue_blouses_jgwd-2210028_6_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 99,
+        "oldPrice": 2557,
+        "discount": 1558
+    },
+    {
+        "id": 28,
+        "name": "Muffler WG-MF-W22-008",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-008_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 891,
+        "oldPrice": 2967,
+        "discount": 2076
+    },
+    {
+        "id": 29,
+        "name": "Muffler WG-MF-W22-013",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-013_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 891,
+        "oldPrice": 2967,
+        "discount": 2076
+    },
+    {
+        "id": 30,
+        "name": "Black Screen Printed Cambric Trousers TR-22-53",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-53_black_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 31,
+        "name": "Off-White Screen Printed Cambric Trousers TR-22-53",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-53_off_white_2__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 32,
+        "name": "Black Screen Printed Cambric Trousers TR-22-56",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-56_black_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 768,
+        "oldPrice": 2557,
+        "discount": 1789
+    },
+    {
+        "id": 33,
+        "name": "Black Cambric Shalwar TR-22-61",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-61_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 34,
+        "name": "Off-White Cambric Shalwar TR-22-61",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-61_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 35,
+        "name": "Black Screen Printed Embroidered Trousers TR-22-71",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-71_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 36,
+        "name": "Off-White Screen Printed Embroidered Trousers TR-22-71",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-71_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 37,
+        "name": "Black Embroidered Raw Silk Trousers TR-21-75",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-21-75_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 891,
+        "oldPrice": 2967,
+        "discount": 2076
+    },
+    {
+        "id": 38,
+        "name": "Black Khaddar Embroidered Trousers TR-22-188",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-188_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 952,
+        "oldPrice": 3173,
+        "discount": 2221
+    },
+    {
+        "id": 39,
+        "name": "Off White Cambric Trousers TR-22-73",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-73_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 40,
+        "name": "Black Raw Silk Screen Printed Trousers TR-22-130",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-130_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 829,
+        "oldPrice": 2762,
+        "discount": 1933
+    },
+    {
+        "id": 41,
+        "name": "Off White Raw Silk Screen Printed Trousers TR-22-130",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-130_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 829,
+        "oldPrice": 2762,
+        "discount": 1933
+    },
+    {
+        "id": 42,
+        "name": "Black Raw Silk Embellished Trousers TR-22-132",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-132_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 768,
+        "oldPrice": 2557,
+        "discount": 1789
+    },
+    {
+        "id": 43,
+        "name": "Black Raw Silk Trousers TR-22-124",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-124_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1322,
+        "oldPrice": 4405,
+        "discount": 3083
+    },
+    {
+        "id": 44,
+        "name": "Off White Raw Silk Trousers TR-22-124",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-124_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1322,
+        "oldPrice": 4405,
+        "discount": 3083
+    },
+    {
+        "id": 45,
+        "name": "Bottom WGK-TRW-DP-259",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-trw-dp-259_2__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1014,
+        "oldPrice": 3378,
+        "discount": 2364
+    },
+    {
+        "id": 46,
+        "name": "Black Raw Silk Embroidered Trousers TR-22-125",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-125_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1137,
+        "oldPrice": 3789,
+        "discount": 2652
+    },
+    {
+        "id": 47,
+        "name": "Black Raw Silk Screen Printed Trousers TR-22-128",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-128_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1230,
+        "oldPrice": 4097,
+        "discount": 2867
+    },
+    {
+        "id": 48,
+        "name": "Luxury Pret Printed Munar Embroidered Kurti With Dupatta ILP-22-151 2PC",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/i/l/ilp-22-151_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 4310,
+        "oldPrice": 14365,
+        "discount": 10055
+    },
+    {
+        "id": 49,
+        "name": "Luxury Pret Printed Charmeuse silk Embroidered Kurti ILP-22-244 1PC",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/i/l/ilp-22-244_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 2770,
+        "oldPrice": 9231,
+        "discount": 6461
+    },
+    {
+        "id": 50,
+        "name": "Indigo Styling Kurta KR-KSTY22-008",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/i/n/indigo_styling_kurta_kr-ksty22-008_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 769,
+        "oldPrice": 2562,
+        "discount": 1793
+    },
+    {
+        "id": 51,
+        "name": "Peach Basic Kurta KR-KPLN22-073",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/p/e/peach_basic_kurta_kr-kpln22-073_7_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 923,
+        "oldPrice": 3075,
+        "discount": 2152
+    },
+    {
+        "id": 52,
+        "name": "Fog Grey Basic Kurta KR-KPLN22-074",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/f/o/fog_grey_basic_kurta_kr-kpln22-074_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 923,
+        "oldPrice": 3075,
+        "discount": 2152
+    },
+    {
+        "id": 53,
+        "name": "Hunter Green Embroidered Kurta KR-KEMB22-008",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/h/u/hunter_green_embroidered_kurta_kr-kemb22-008_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 54,
+        "name": "Gold Orange Embroidered Kurta KR-KEMB22-009",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/g/o/gold_orange_embroidered_kurta_kr-kemb22-009_6_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 55,
+        "name": "Yellow Embroidered Kurta KR-KEMB22-010",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/y/e/yellow_embroidered_kurta_kr-kemb22-010_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 56,
+        "name": "Orange Embroidered Kurta KR-KEMB22-012",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/o/r/orange_embroidered_kurta_kr-kemb22-012_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 57,
+        "name": "Marigold Embroidered Kurta KR-KEMB22-013",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/m/a/marigold_embroidered_kurta_kr-kemb22-013_6_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 58,
+        "name": "Algae Green Embroidered Kurta KR-KEMB22-019",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/a/l/algae_green_embroidered_kurta_kr-kemb22-019_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 59,
+        "name": "Lime Green Embroidered Kurta KR-KEMB22-020",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/l/i/lime_green_embroidered_kurta_kr-kemb22-020_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 1231,
+        "oldPrice": 4102,
+        "discount": 2871
+    },
+    {
+        "id": 60,
+        "name": "Lavender Basic Kurta KR-KPLN22-071",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/l/a/lavender_basic_kurta_kr-kpln22-071_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 923,
+        "oldPrice": 3075,
+        "discount": 2152
+    },
+    {
+        "id": 61,
+        "name": "Green Basic Kurta KR-KPLN22-072",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/g/r/green_basic_kurta_kr-kpln22-072_6_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 923,
+        "oldPrice": 3075,
+        "discount": 2152
+    },
+    {
+        "id": 62,
+        "name": "Luxury Pret Dyed Fancy Zari Embroidered kurti ILP-23-182",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/i/l/ilp-23-182_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 4310,
+        "oldPrice": 14365,
+        "discount": 10055
+    },
+    {
+        "id": 63,
+        "name": "Dyed Indian Rawsilk Embroidered Trouser TR-21-185",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/t/r/tr-21-185_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 922,
+        "oldPrice": 3070,
+        "discount": 2148
+    },
+    {
+        "id": 64,
+        "name": "Off-White Polyester Scarf SCF-W22-22",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/s/c/scf-w22-22_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 613,
+        "oldPrice": 2043,
+        "discount": 1430
+    },
+    {
+        "id": 65,
+        "name": "Dyed Muffler WG-MF-W22-004",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-004_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 706,
+        "oldPrice": 2351,
+        "discount": 1645
+    },
+    {
+        "id": 66,
+        "name": "Dyed Muffler WG-MF-W22-012",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-012_3__1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 706,
+        "oldPrice": 2351,
+        "discount": 1645
+    },
+    {
+        "id": 67,
+        "name": "Muffler WG-MF-W22-010",
+        "imageURL": "https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-010_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450",
+        "currentPrice": 891,
+        "oldPrice": 2967,
+        "discount": 2076
+    }
+]

@@ -1,0 +1,402 @@
+name: Cambric Dyed Embroidered Shirt WGK-CMS-DE-861
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-cms-de-861_3__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,199
+oldPrice: PKR 3,994
+discount: PKR 2,795
+
+name: Foil Print Slub Shirt GLW-22-60
+imageURL: https://www.gulahmedshop.com/media/catalog/product/g/l/glw-22-60_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,599
+oldPrice: PKR 5,329
+discount: PKR 3,730
+
+name: The Loom Dyed Shirt WGK-YDW-DY-1616
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-ydw-dy-1616_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,230
+oldPrice: PKR 4,097
+discount: PKR 2,867
+
+name: The Loom Dyed Shirt WGK-YDW-DY-1800
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-ydw-dy-1800_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,445
+oldPrice: PKR 4,816
+discount: PKR 3,371
+
+name: Printed Melody Printed Shirt WGK-GTW-DP-1847
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-gtw-dp-1847_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 768
+oldPrice: PKR 2,557
+discount: PKR 1,789
+
+name: Printed Melody Printed Shirt WGK-GTW-DP-1852
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-gtw-dp-1852_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,014
+oldPrice: PKR 3,378
+discount: PKR 2,364
+
+name: Screen Printed Khaddar Shirt GLW-22-47 1PC
+imageURL: https://www.gulahmedshop.com/media/catalog/product/g/l/glw-22-47_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,538
+oldPrice: PKR 5,124
+discount: PKR 3,586
+
+name: Embroidered Khaddar Shirt GLW-22-05
+imageURL: https://www.gulahmedshop.com/media/catalog/product/g/l/glw-22-05_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 2,154
+oldPrice: PKR 7,177
+discount: PKR 5,023
+
+name: Neps Yarn Dyed Shirt WGK-YDW-DY-2079
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-ydw-dy-2079_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,445
+oldPrice: PKR 4,816
+discount: PKR 3,371
+
+name: The Loom Dyed Shirt WGK-JQS-DE-2097
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-jqs-de-2097_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,722
+oldPrice: PKR 5,740
+discount: PKR 4,018
+
+name: Dyed Denim Shirt And Trouser WGK-DNW-DY-1953
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-dnw-dy-1953_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,846
+oldPrice: PKR 6,150
+discount: PKR 4,304
+
+name: White Raw Silk Embroidered Trousers TR-22-28
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-28_white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,384
+oldPrice: PKR 4,610
+discount: PKR 3,226
+
+name: Grey Styling Kurta KR-KSTY22-014
+imageURL: https://www.gulahmedshop.com/media/catalog/product/g/r/grey_styling_kurta_kr-ksty22-014_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 769
+oldPrice: PKR 2,562
+discount: PKR 1,793
+
+name: Magenta Embroidered Kurta KR-KEMB22-018
+imageURL: https://www.gulahmedshop.com/media/catalog/product/m/a/magenta_embroidered_kurta_kr-kemb22-018_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Moss Embroidered Kurta KR-KEMB22-017
+imageURL: https://www.gulahmedshop.com/media/catalog/product/m/o/moss_embroidered_kurta_kr-kemb22-017_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Assorted Pillow Covers Pair 6 PC Set
+imageURL: https://www.gulahmedshop.com/media/catalog/product/a/s/assorted_pillow_covers_pair_6_pcs_set_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 810
+oldPrice: PKR 2,700
+discount: PKR 1,890
+
+name: Pink-White Casual Shirt CM-YD-2872 CS HS
+imageURL: https://www.gulahmedshop.com/media/catalog/product/p/i/pink-white_casual_shirt_cm-yd-2872_cs_hs_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 999
+oldPrice: PKR 2,818
+discount: PKR 1,819
+
+name: Women Navy Shoes IDFT-SS22-208
+imageURL: https://www.gulahmedshop.com/media/catalog/product/2/9/290855_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,999
+oldPrice: PKR 5,226
+discount: PKR 3,227
+
+name: Women Tan Shoes IDFT-SS22-211
+imageURL: https://www.gulahmedshop.com/media/catalog/product/2/9/290865_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,999
+oldPrice: PKR 5,226
+discount: PKR 3,227
+
+name: Black Embroidered Raw Silk Trousers TR-21-158
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-21-158_black_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Black Embroidered Indian Raw Silk Trousers TR-21-116
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-21-116_1_black.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,106
+oldPrice: PKR 3,686
+discount: PKR 2,580
+
+name: Bottom - WGK-LWS-DE-455B
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-lws-de-455b_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,014
+oldPrice: PKR 3,378
+discount: PKR 2,364
+
+name: Jacquard Muffler WG-MF-W22-001
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-001_1__2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 706
+oldPrice: PKR 2,351
+discount: PKR 1,645
+
+name: Dyed Muffler WG-MF-W22-011
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-011_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 706
+oldPrice: PKR 2,351
+discount: PKR 1,645
+
+name: Black Diomand Muffler WG-MF-W22-002
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-002_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 706
+oldPrice: PKR 2,351
+discount: PKR 1,645
+
+name: Junior Girl Red Trouser JGNB-2210064-A
+imageURL: https://www.gulahmedshop.com/media/catalog/product/r/e/red_trousers_jgnb-2210064-a_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 999
+oldPrice: PKR 2,557
+discount: PKR 1,558
+
+name: Junior Girl Blue Blouse JGWD-2210028
+imageURL: https://www.gulahmedshop.com/media/catalog/product/b/l/blue_blouses_jgwd-2210028_6_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 999
+oldPrice: PKR 2,557
+discount: PKR 1,558
+
+name: Muffler WG-MF-W22-008
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-008_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 891
+oldPrice: PKR 2,967
+discount: PKR 2,076
+
+name: Muffler WG-MF-W22-013
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-013_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 891
+oldPrice: PKR 2,967
+discount: PKR 2,076
+
+name: Black Screen Printed Cambric Trousers TR-22-53
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-53_black_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Off-White Screen Printed Cambric Trousers TR-22-53
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-53_off_white_2__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Black Screen Printed Cambric Trousers TR-22-56
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-56_black_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 768
+oldPrice: PKR 2,557
+discount: PKR 1,789
+
+name: Black Cambric Shalwar TR-22-61
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-61_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Off-White Cambric Shalwar TR-22-61
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-61_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Black Screen Printed Embroidered Trousers TR-22-71
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-71_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Off-White Screen Printed Embroidered Trousers TR-22-71
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-71_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Black Embroidered Raw Silk Trousers TR-21-75
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-21-75_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 891
+oldPrice: PKR 2,967
+discount: PKR 2,076
+
+name: Black Khaddar Embroidered Trousers TR-22-188
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-188_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 952
+oldPrice: PKR 3,173
+discount: PKR 2,221
+
+name: Off White Cambric Trousers TR-22-73
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-73_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Black Raw Silk Screen Printed Trousers TR-22-130
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-130_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 829
+oldPrice: PKR 2,762
+discount: PKR 1,933
+
+name: Off White Raw Silk Screen Printed Trousers TR-22-130
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-130_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 829
+oldPrice: PKR 2,762
+discount: PKR 1,933
+
+name: Black Raw Silk Embellished Trousers TR-22-132
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-132_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 768
+oldPrice: PKR 2,557
+discount: PKR 1,789
+
+name: Black Raw Silk Trousers TR-22-124
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-124_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,322
+oldPrice: PKR 4,405
+discount: PKR 3,083
+
+name: Off White Raw Silk Trousers TR-22-124
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-124_off-white_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,322
+oldPrice: PKR 4,405
+discount: PKR 3,083
+
+name: Bottom WGK-TRW-DP-259
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wgk-trw-dp-259_2__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,014
+oldPrice: PKR 3,378
+discount: PKR 2,364
+
+name: Black Raw Silk Embroidered Trousers TR-22-125
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-125_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,137
+oldPrice: PKR 3,789
+discount: PKR 2,652
+
+name: Black Raw Silk Screen Printed Trousers TR-22-128
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-22-128_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,230
+oldPrice: PKR 4,097
+discount: PKR 2,867
+
+name: Luxury Pret Printed Munar Embroidered Kurti With Dupatta ILP-22-151 2PC
+imageURL: https://www.gulahmedshop.com/media/catalog/product/i/l/ilp-22-151_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 4,310
+oldPrice: PKR 14,365
+discount: PKR 10,055
+
+name: Luxury Pret Printed Charmeuse silk Embroidered Kurti ILP-22-244 1PC
+imageURL: https://www.gulahmedshop.com/media/catalog/product/i/l/ilp-22-244_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 2,770
+oldPrice: PKR 9,231
+discount: PKR 6,461
+
+name: Indigo Styling Kurta KR-KSTY22-008
+imageURL: https://www.gulahmedshop.com/media/catalog/product/i/n/indigo_styling_kurta_kr-ksty22-008_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 769
+oldPrice: PKR 2,562
+discount: PKR 1,793
+
+name: Peach Basic Kurta KR-KPLN22-073
+imageURL: https://www.gulahmedshop.com/media/catalog/product/p/e/peach_basic_kurta_kr-kpln22-073_7_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 923
+oldPrice: PKR 3,075
+discount: PKR 2,152
+
+name: Fog Grey Basic Kurta KR-KPLN22-074
+imageURL: https://www.gulahmedshop.com/media/catalog/product/f/o/fog_grey_basic_kurta_kr-kpln22-074_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 923
+oldPrice: PKR 3,075
+discount: PKR 2,152
+
+name: Hunter Green Embroidered Kurta KR-KEMB22-008
+imageURL: https://www.gulahmedshop.com/media/catalog/product/h/u/hunter_green_embroidered_kurta_kr-kemb22-008_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Gold Orange Embroidered Kurta KR-KEMB22-009
+imageURL: https://www.gulahmedshop.com/media/catalog/product/g/o/gold_orange_embroidered_kurta_kr-kemb22-009_6_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Yellow Embroidered Kurta KR-KEMB22-010
+imageURL: https://www.gulahmedshop.com/media/catalog/product/y/e/yellow_embroidered_kurta_kr-kemb22-010_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Orange Embroidered Kurta KR-KEMB22-012
+imageURL: https://www.gulahmedshop.com/media/catalog/product/o/r/orange_embroidered_kurta_kr-kemb22-012_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Marigold Embroidered Kurta KR-KEMB22-013
+imageURL: https://www.gulahmedshop.com/media/catalog/product/m/a/marigold_embroidered_kurta_kr-kemb22-013_6_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Algae Green Embroidered Kurta KR-KEMB22-019
+imageURL: https://www.gulahmedshop.com/media/catalog/product/a/l/algae_green_embroidered_kurta_kr-kemb22-019_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Lime Green Embroidered Kurta KR-KEMB22-020
+imageURL: https://www.gulahmedshop.com/media/catalog/product/l/i/lime_green_embroidered_kurta_kr-kemb22-020_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 1,231
+oldPrice: PKR 4,102
+discount: PKR 2,871
+
+name: Lavender Basic Kurta KR-KPLN22-071
+imageURL: https://www.gulahmedshop.com/media/catalog/product/l/a/lavender_basic_kurta_kr-kpln22-071_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 923
+oldPrice: PKR 3,075
+discount: PKR 2,152
+
+name: Green Basic Kurta KR-KPLN22-072
+imageURL: https://www.gulahmedshop.com/media/catalog/product/g/r/green_basic_kurta_kr-kpln22-072_6_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 923
+oldPrice: PKR 3,075
+discount: PKR 2,152
+
+name: Luxury Pret Dyed Fancy Zari Embroidered kurti ILP-23-182
+imageURL: https://www.gulahmedshop.com/media/catalog/product/i/l/ilp-23-182_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 4,310
+oldPrice: PKR 14,365
+discount: PKR 10,055
+
+name: Dyed Indian Rawsilk Embroidered Trouser TR-21-185
+imageURL: https://www.gulahmedshop.com/media/catalog/product/t/r/tr-21-185_black_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 922
+oldPrice: PKR 3,070
+discount: PKR 2,148
+
+name: Off-White Polyester Scarf SCF-W22-22
+imageURL: https://www.gulahmedshop.com/media/catalog/product/s/c/scf-w22-22_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 613
+oldPrice: PKR 2,043
+discount: PKR 1,430
+
+name: Dyed Muffler WG-MF-W22-004
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-004_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 706
+oldPrice: PKR 2,351
+discount: PKR 1,645
+
+name: Dyed Muffler WG-MF-W22-012
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-012_3__1_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 706
+oldPrice: PKR 2,351
+discount: PKR 1,645
+
+name: Muffler WG-MF-W22-010
+imageURL: https://www.gulahmedshop.com/media/catalog/product/w/g/wg-mf-w22-010_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&canvas=2:3&height=675&width=450
+currentPrice: PKR 891
+oldPrice: PKR 2,967
+discount: PKR 2,076
+
