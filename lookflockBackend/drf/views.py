@@ -6,7 +6,7 @@ from django.middleware.csrf import get_token
 import firebase_admin
 from firebase_admin import credentials, firestore, db
 import json
-cred = credentials.Certificate('/home/k213458/Documents/WebProjects/lookflock/lookflockbackend/drf/certificate.json')
+cred = credentials.Certificate('/home/k213458/Documents/WebProjects/LookFlock/lookflockBackend/drf/certificate.json')
 firebase_admin.initialize_app(cred, {"databaseURL":"https://lookflock-asad-default-rtdb.asia-southeast1.firebasedatabase.app"})
 
 db = firestore.client()
